@@ -64,7 +64,7 @@ def data_point(player1_info_dict, player2_info_dict, match_info_dict):
     tourney_level = match_info_dict['tourney_level']
     best_of = match_info_dict['best_of']
 
-# player1, player2, surface, tourney_level, rank_player1, rank_player2, best_of, player1_age, player2_age
+
     try:
         (
             player1_avg_ace, player1_avg_df, player1_avg_svpt,
