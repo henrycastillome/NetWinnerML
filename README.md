@@ -1,4 +1,4 @@
-![Example Image](/NetWinnerML/src/tournament.png)
+![Example Image](/src/tournament.png)
 
 # NetWinner - Tennis Match Prediction
 
