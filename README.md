@@ -1,5 +1,7 @@
 
-# Tennis Tournament Simulation to Test the model
+## Tennis Tournament Simulation to Test the model
+
+Hard court, Grand Slam & Best of 5
 
 ![Example Image](/src/tournament.png)
 
